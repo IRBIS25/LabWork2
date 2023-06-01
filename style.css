@@ -1,0 +1,31 @@
+body {
+    font-family: Tahoma, serif;
+}
+
+h1 {
+    color: #0003ba;
+}
+
+.learned-ok {
+    color: green;
+    font-size: 24px;
+}
+
+.learned-ok:hover {
+    color: aqua;
+}
+
+.learning-in-progress {
+    color: orange;
+    text-shadow: 5px 5px 5px black;
+}
+
+.not-learned {
+    color: red;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+img {
+    width: 200px;
+}
+
